@@ -1,2 +1,3 @@
 # dual-lab-task
-Тестовое задание от Dual Lab, чтобы продемонстрировать наличие минимально необходимого уровня знаний.
+
+  ### Console application to solve the problem and to do it in a way that shows your java skills to go to Dual Lab intership.
